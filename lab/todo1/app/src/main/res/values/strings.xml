@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">todo_detail</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="textView">TextView</string>
+    <string-array name="todos" >
+        <item>Wake up</item>
+        <item>Drink Coffee</item>
+        <item>Make at least a person laugh</item>
+        <item>Plant a tree</item>
+        <item>Ponder on duality of existence</item>
+        <item>Go to sleep</item>
+    </string-array>
+</resources>
